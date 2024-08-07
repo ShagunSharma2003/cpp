@@ -1,0 +1,108 @@
+{
+    "Name": "Shagun Sharma",
+    "Contact Information": {
+      "LinkedIn": "http://www.linkedin.com/in/shagunsharma2003",
+      "Email": "sharma.diva193@gmail.com",
+      "GitHub": "https://github.com/ShagunSharma2003",
+      "Mobile": "9015328615"
+    },
+    "Skills": {
+      "Languages": ["C++", "JavaScript"],
+      "Frameworks": ["Reactjs", "Nodejs"],
+      "Tools/Platforms": ["MySQL", "MongoDB", "Google Docs", "Word", "Excel"],
+      "Soft Skills": ["Team management", "Stage presence", "Communication skills", "Problem solver"]
+    },
+    "Professional Training": [
+      {
+        "Title": "Data Structures and Algorithm",
+        "Organization": "Human Resource LPU",
+        "Date": "July 2023",
+        "Description": [
+          "Learnt Linear Data Structures and Algorithm from Basic to Advance.",
+          "Experimented how to optimize DSA knowledge in Real world life.",
+          "Developed a project called Library Management System Using Link-List Data-Structure."
+        ]
+      }
+    ],
+    "Projects": [
+      {
+        "Title": "A Café Website",
+        "Date": "April 2023",
+        "Domain": "Programming Languages",
+        "Programming Languages": ["HTML", "CSS", "JavaScript"],
+        "Description": [
+          "Created a dynamic website for user interface and various animations were also there for smooth interface.",
+          "Added various functionalities in it such as order booking, table booking and number of persons coming.",
+          "Learnt the efficient use of HTML, CSS and JavaScript."
+        ]
+      },
+      {
+        "Title": "Portfolio Website",
+        "Date": "July 2024",
+        "Domain": "Programming Languages and skillset",
+        "Programming Languages": ["HTML", "CSS", "Reactjs"],
+        "Description": [
+          "Developed a portfolio website for showing different skills.",
+          "Created a responsive website with a smooth interface with different pages for showing skillsets.",
+          "Showcase different projects, added resume and various skillsets."
+        ]
+      }
+    ],
+    "Certificates": [
+      {
+        "Title": "Data Structures and Algorithm",
+        "Organization": "Human Resources Development Center, LPU",
+        "Date": "July 2023"
+      },
+      {
+        "Title": "Introduction to database and SQL",
+        "Organization": "Great Learning",
+        "Date": "July 2024"
+      },
+      {
+        "Title": "Advance react and react basics",
+        "Organization": "Coursera",
+        "Date": "April 2024"
+      }
+    ],
+    "Achievements": [
+      {
+        "Title": "Scored 585/800 marks in CoCubes exam",
+        "Description": "Oct 2023"
+      },
+      {
+        "Title": "5 Star rating in C++ on Hackerrank",
+        "Description": "Jan 2024"
+      },
+      {
+        "Title": "Awarded by deputy chief minister of HP for being Miss Himachal finalist",
+        "Description": "May 2023"
+      },
+      {
+        "Title": "Ranked 17th statewide in 10th Himachal Pradesh board exams",
+        "Description": "March 2019"
+      }
+    ],
+    "Education": [
+      {
+        "Institution": "Lovely Professional University Punjab, India",
+        "Degree": "Bachelor of Technology",
+        "Field of Study": "Computer Science and Engineering",
+        "CGPA": "7.4",
+        "Date": "Since September 2021"
+      },
+      {
+        "Institution": "SD Public School, Hamirpur, Himachal Pradesh",
+        "Degree": "Intermediate",
+        "Percentage": "93%",
+        "Date": "March 2020 - April 2021"
+      },
+      {
+        "Institution": "SD Public School, Hamirpur, Himachal Pradesh",
+        "Degree": "Matriculation",
+        "Percentage": "96%",
+        "Date": "March 2018 - March 2019"
+      }
+    ]
+  }
+  
